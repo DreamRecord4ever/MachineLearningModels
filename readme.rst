@@ -16,7 +16,7 @@ Machine Learning Models
 | * Usage
 |
 | Simply import the class into your implementation.
-| e.g. If you want to use the random forest model, then insert the following into your code:
+| Take **Random Forest** Model for instance:
 
 ::
 
