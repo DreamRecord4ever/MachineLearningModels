@@ -21,3 +21,17 @@ Machine Learning Models
 ::
 
     from randomForest import randomForest
+
+2. k-means clustering
+-------------------------
+
+| Python packages **numpy** is required.
+| 
+| * Usage
+|
+| Simply import the class into your implementation.
+
+::
+
+    from kMeans import kMeans
+
